@@ -1,5 +1,5 @@
 {
-  "name": "tdg-test",
+  "name": "ts-template",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ste-vg/tdg-test.git"
+    "url": "git+https://github.com/ste-vg/ts-template.git"
   },
   "author": "ste.vg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ste-vg/tdg-test/issues"
+    "url": "https://github.com/ste-vg/ts-template/issues"
   },
-  "homepage": "https://github.com/ste-vg/tdg-test#readme",
+  "homepage": "https://github.com/ste-vg/ts-template#readme",
   "devDependencies": {
     "@types/chai": "^4.1.4",
     "@types/mocha": "^5.2.2",
